@@ -1,0 +1,24 @@
+{
+  "name": "programadores-para-la-paz-modulo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yicethsibaja17-commits/Programadores-para-la-paz-Modulo3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yicethsibaja17-commits/Programadores-para-la-paz-Modulo3/issues"
+  },
+  "homepage": "https://github.com/yicethsibaja17-commits/Programadores-para-la-paz-Modulo3#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
