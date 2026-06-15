@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes que han sido registrados anteriormente mediante la ruta POST. Cada reporte aparece almacenado dentro de un arreglo con su id, tipo y descripción. Esto permite visualizar la información guardada mientras el servidor se encuentra en ejecución.
